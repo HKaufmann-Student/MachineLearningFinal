@@ -69,13 +69,25 @@ Run `backtest.py` to:
 2. Analyze portfolio performance over time.
 
 ---
-
 ## Our Outputs
 
-###Fold 1: Cumulative Return: 276.41% (Sharpe Ratio: 4.361688)
-###Fold 2: Cumulative Return: 277.84% (Sharpe Ratio: 4.135574)
-###Fold 3: Cumulative Return: 262.02% (Sharpe Ratio: 4.014116)
-###Fold 4: Cumulative Return: 254.42% (Sharpe Ratio: 3.885298)
+### Fold Results
+- **Fold 1**:  
+  Cumulative Return: **276.41%**  
+  Sharpe Ratio: **4.361688**
 
-###Average Cumulative Return across all folds: 267.67%
-###Average Sharpe Ratio across all folds: 4.10
+- **Fold 2**:  
+  Cumulative Return: **277.84%**  
+  Sharpe Ratio: **4.135574**
+
+- **Fold 3**:  
+  Cumulative Return: **262.02%**  
+  Sharpe Ratio: **4.014116**
+
+- **Fold 4**:  
+  Cumulative Return: **254.42%**  
+  Sharpe Ratio: **3.885298**
+
+### Averages
+- **Average Cumulative Return across all folds**: **267.67%**  
+- **Average Sharpe Ratio across all folds**: **4.10**
