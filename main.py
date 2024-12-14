@@ -48,7 +48,7 @@ def main():
     start_date = '2010-01-01'
     end_date = '2023-10-01'
     window_size = 60
-    num_folds = 5  # Define the number of cross-validation folds
+    num_folds = 5
 
     # Define Directories
     raw_data_dir = 'data'
