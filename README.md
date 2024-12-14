@@ -4,7 +4,7 @@
 
 ---
 ## Google Colab for Stock Prediction
-- https://docs.google.com/document/d/1VIZK3TqRaKlOF10cOuRGj7rcpHvGt9WyEblCuq-c8uQ/edit?usp=sharing
+- [https://docs.google.com/document/d/1VIZK3TqRaKlOF10cOuRGj7rcpHvGt9WyEblCuq-c8uQ/edit?usp=sharing](https://colab.research.google.com/drive/1Wg50k_7hV_brr_AOfVCBb6TQpqbUDCwA?usp=sharing)
 ---
 
 ## Features
