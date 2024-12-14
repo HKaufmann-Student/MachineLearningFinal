@@ -171,7 +171,7 @@ def main():
     results, trained_model = train_and_evaluate_model(
         X, y, 
         create_classification_model, 
-        class_weight=class_weights,  # Corrected parameter name
+        class_weight=class_weights,
         n_splits=5, 
         features=features, 
         output_dir='artifacts'
