@@ -166,7 +166,6 @@ def main():
     class_weights = dict(enumerate(class_weights))
     print("Class weights computed:", class_weights)
 
-    '''
     # Step 5: Model Training & Evaluation (Commented Out)
     print("=== Training & Evaluation ===")
     results, trained_model = train_and_evaluate_model(
@@ -184,7 +183,6 @@ def main():
     print("Saving metrics...")
     save_metrics(results, 'artifacts')
     print("Metrics saved to 'artifacts' directory.")
-    '''
 
     # Step 6: Run Backtest for All Folds
     print("=== Running Backtest for All Folds ===")
