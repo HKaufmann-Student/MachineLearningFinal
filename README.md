@@ -52,26 +52,6 @@
 - **backtest_results**: Backtesting results, including portfolio performance and charts.
 
 ---
-
-## Workflow
-
-### Step 1: Data Collection
-Run `dataCollection.py` to download and save raw stock and macroeconomic data.
-
-### Step 2: Data Preparation
-Use `dataPreparation.py` to:
-1. Add technical indicators and performance labels.
-2. Merge data and prepare it for model training.
-
-### Step 3: Model Training
-`modelTraining.py` trains and evaluates models using cross-validation. The best-performing model is saved for backtesting.
-
-### Step 4: Backtesting
-Run `backtest.py` to:
-1. Test the model on new data.
-2. Analyze portfolio performance over time.
-
----
 ## Our Outputs
 
 ### Fold Results
